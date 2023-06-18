@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/expenses-chart-component-using-scss-react-and-chart-js-SE7F8Rffdk
+- Live Site URL: https://expenses-chart-component-react-chart-js.vercel.app/
 
 ## My process
 
